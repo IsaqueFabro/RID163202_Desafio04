@@ -1,12 +1,63 @@
-# React + Vite
+# 💼 Portfólio Profissional com React Hooks
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é o resultado do **Desafio 03 - Desenvolva um portfólio com React Hooks**, cujo objetivo é criar um portfólio profissional e funcional utilizando **React**, **Vite** e **React Hooks**, seguindo boas práticas de desenvolvimento e um design fiel ao template proposto no Figma.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Template Escolhido
 
-## Expanding the ESLint configuration
+📄 Template selecionado no Figma: **Template 01**  
+🔗 [Acessar Figma](https://www.figma.com/file/O2j7uVVhXUnV6dadZc2MMw/Desafio-03%3A-Desenvolva-um-portf%C3%B3lio-com-React-hooks?type=design&node-id=0%3A1)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [JavaScript (ES6+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [React Hooks (`useState`, `useEffect`)](https://reactjs.org/docs/hooks-intro.html)
+- [CSS / TailwindCSS (se aplicável)]
+
+---
+
+## 🧠 Funcionalidades com Hooks
+
+O projeto utiliza os seguintes React Hooks:
+
+- **`useState`**: para controlar estados locais como menus, tabs, temas e visibilidade de elementos.
+- **`useEffect`**: para lidar com efeitos colaterais, como animações de entrada, exibição condicional de seções ou carregamento de dados.
+
+---
+
+## 🧩 Estrutura do Projeto
+
+O projeto foi estruturado com foco em organização, manutenibilidade e escalabilidade
+
+---
+
+## ✨ Conteúdo Personalizado
+
+O conteúdo do template foi totalmente adaptado com informações reais do desenvolvedor, incluindo:
+
+- Bio e apresentação profissional
+- Experiências e projetos desenvolvidos
+- Habilidades e tecnologias
+- Formulário de contato funcional
+
+---
+
+## 🧪 Como Rodar o Projeto Localmente
+
+```bash
+# 1. Clone o repositório
+git clone https://github.com/seu-usuario/RID163202_Desafio03.git
+
+# 2. Acesse a pasta do projeto
+cd RID163202_Desafio03
+
+# 3. Instale as dependências
+npm install
+
+# 4. Inicie o servidor de desenvolvimento
+npm run dev
