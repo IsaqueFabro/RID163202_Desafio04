@@ -40,9 +40,9 @@ O projeto foi estruturado com foco em organização, manutenibilidade e escalabi
 
 O conteúdo do template foi totalmente adaptado com informações reais do desenvolvedor, incluindo:
 
-- Bio e apresentação profissional
-- Experiências e projetos desenvolvidos
-- Habilidades e tecnologias
+- Bio e apresentação profissional  
+- Experiências e projetos desenvolvidos  
+- Habilidades e tecnologias  
 - Formulário de contato funcional
 
 ---
@@ -61,3 +61,25 @@ npm install
 
 # 4. Inicie o servidor de desenvolvimento
 npm run dev
+```
+
+---
+
+## 📦 Deploy
+
+O projeto está disponível online no seguinte link:  
+🔗 [https://desafio04dnc.netlify.app/](https://desafio04dnc.netlify.app/)
+
+---
+
+## 🧾 RID do Aluno
+
+📌 RID: **163202**
+
+---
+
+## 📮 Contato
+
+Desenvolvido por **Isaque Fabro**  
+📧 fabro.isaque@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/isaque-fabro/)
