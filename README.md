@@ -51,10 +51,10 @@ O conteúdo do template foi totalmente adaptado com informações reais do desen
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/RID163202_Desafio03.git
+git clone https://github.com/seu-usuario/RID163202_Desafio04.git
 
 # 2. Acesse a pasta do projeto
-cd RID163202_Desafio03
+cd RID163202_Desafio04
 
 # 3. Instale as dependências
 npm install
