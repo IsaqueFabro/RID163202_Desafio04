@@ -81,5 +81,5 @@ O projeto está disponível online no seguinte link:
 ## 📮 Contato
 
 Desenvolvido por **Isaque Fabro**  
-📧 fabro.isaque@gmail.com  
+📧 isaquefabro04@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/isaque-fabro/)
